@@ -15,8 +15,7 @@ IV. Розробка та налагодження програмного заб
 
 - process - для обробки і імітації змінних
 
-  ![](C:\Users\user\Downloads\Снимок экрана (818).png)
-
+<a href="https://ibb.co/TT65nsf"><img src="https://i.ibb.co/hMbvnS6/821.png" alt="821" border="0"></a>
 - UI - для роботи з локальним ВЕБ-інтерфейсом
 
   ![](https://ibb.co/TT65nsf)
