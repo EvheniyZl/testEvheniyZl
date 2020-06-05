@@ -25,31 +25,23 @@
 <ul>
 <li>
 <p>process - для обробки і імітації змінних</p>
-<p>![image-20200605172611056](file://C:/Users/user/AppData/Roaming/Typora/typora-user-images/image-20200605172611056.png?lastModify=1591368620)</p>
 </li>
 <li>
 <p>UI - для роботи з локальним ВЕБ-інтерфейсом</p>
-<p>![image-20200605172602089](file://C:/Users/user/AppData/Roaming/Typora/typora-user-images/image-20200605172602089.png?lastModify=1591368620)</p>
+</li>
+<li>
+<p>History - для роботи з локальною базою даних для збереження даних</p>
+</li>
+<li>
+<p>Alarm - для роботи з тривогами</p>
+</li>
+<li>
+<p>Bot - для роботи з чат-ботом Telegram</p>
+</li>
+<li>
+<p>Report - для формування звітів та взаємодії з Google Sheet</p>
 </li>
 </ul>
-<p>![image-20200605172542020](file://C:/Users/user/AppData/Roaming/Typora/typora-user-images/image-20200605172542020.png?lastModify=1591368620)</p>
-<ul>
-<li>History - для роботи з локальною базою даних для збереження даних</li>
-</ul>
-<p>![image-20200605172536049](file://C:/Users/user/AppData/Roaming/Typora/typora-user-images/image-20200605172536049.png?lastModify=1591368620)</p>
-<ul>
-<li>Alarm - для роботи з тривогами</li>
-</ul>
-<p>![image-20200605172532437](file://C:/Users/user/AppData/Roaming/Typora/typora-user-images/image-20200605172532437.png?lastModify=1591368620)</p>
-<ul>
-<li>Bot - для роботи з чат-ботом Telegram</li>
-</ul>
-<p>![image-20200605172512926](file://C:/Users/user/AppData/Roaming/Typora/typora-user-images/image-20200605172512926.png?lastModify=1591368620)</p>
-<p>![image-20200605172524374](file://C:/Users/user/AppData/Roaming/Typora/typora-user-images/image-20200605172524374.png?lastModify=1591368620)</p>
-<ul>
-<li>Report - для формування звітів та взаємодії з Google Sheet</li>
-</ul>
-<p>image-20200605172334940</p>
 <p>Система передбачає взаємодію через глобальні контексти Node-RED. Передбачено наступні глобальні контексти:</p>
 <ul>
 <li>
@@ -83,7 +75,7 @@
 </li>
 <li>
 <p>зовнішній вигляд та опис інтерфейсу глобального Веб-інтерфейсу</p>
-<p>![image-20200605172245199](file://C:/Users/user/AppData/Roaming/Typora/typora-user-images/image-20200605172245199.png?lastModify=1591368620)</p>
+<p><img src="https://photos.app.goo.gl/abKfiyrGsV4EBTb67" alt="enter image description here"></p>
 </li>
 </ul>
 
